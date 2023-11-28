@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FDCB00&size=35&center=true&vCenter=true&width=1000&lines=Hola+👋👋👋Soy+Miguel👽;Welcome+to+my+GitHub+profile!)
 
 <!------------------------------------------------------------------------------------------------------------------------------------------->
-Soy Lic en Bioimagens, egresado de la UBA, con una Especialización en Hemodinamia. Y Programador universitario egresado de la UTN San Rafael y terminando una certificasion en Salesforce actualmente trato de combinar ambos mundos, 
+Soy Lic en Bioimagens, egresado de la UBA, con una Especialización en Hemodinamia. Y Programador universitario egresado de la UTN San Rafael actualmente terminando una certificasion en Salesforce y trato de combinar ambos mundos, 
 
 <!------------------------------------------------------------------------------------------------------------------------------------------->
 
